@@ -25,3 +25,6 @@ def touching(colour1, colour2):
       print("Erfüllt")
     else:
       print("Nicht erfüllt")
+# if I run it 
+touching(Blue, Black)
+# the "TypeError: 'int' object is not iterable" appears. Any tips?
